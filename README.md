@@ -38,7 +38,7 @@ Quick Links:
 ### How do I add SHIDDED coin to MetaMask
 
 The Best Way:
-- Open the following URL: https://shidcoin.github.io/
+- Open the following URL: https://shid.diamonds/
 - Click 'Add SHID to MetaMask'
 
 The Manual Way:
