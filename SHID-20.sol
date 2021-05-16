@@ -4,6 +4,6 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 contract SHIDDED is ERC20 {
     constructor () ERC20 ("SHIDDED COIN", "SHID"){
-        _mint(msg.sender, 1000000000000000000000000000);
+        _mint(msg.sender, 500000000000000000000000000000);
     }
 }

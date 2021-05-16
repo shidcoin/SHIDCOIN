@@ -11,7 +11,7 @@ ___
 - Open Etherium's Remix Tool https://remix.etherium.org
 - Ensure MetaMask Chrome Browser extension is installed and Etherium has been funded to the wallet of the future ERC-20 token owner.
 - Create a new file (*SHID-20.sol*)
-- Copy/Paste the following smart contract details (Note that there are 18 decimal places for this token so the number of coins created is 1 billion.
+- Copy/Paste the following smart contract details (Note: There are 18 decimal places for this token, so the number of coins created is 500 Billion).
     ```
     pragma solidity ^0.8.0;
 
@@ -19,7 +19,7 @@ ___
 
     contract SHIDDED is ERC20 {
       constructor () ERC20 ("SHIDDED COIN", "SHID"){
-        _mint(msg.sender, 1000000000000000000000000000);
+        _mint(msg.sender, 500000000000000000000000000000);
       }
     }
     ```
