@@ -16,7 +16,7 @@ https://knowyourmeme.com/memes/shidding-and-farding
 ---
 
 ### Why?
-because diamonds sounds fun
+because shidding diamonds sounds fun
 
 ---
 
