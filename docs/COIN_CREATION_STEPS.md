@@ -2,6 +2,7 @@
 - Go to https://metamask.io/download.html and install MetaMask
 - Select Network (For testing, use something like the Ropsten Test Network; for Production use the Etherium Mainnet)
 - Fund the Etherium wallet to ensure "[Gas Fees](https://ethereum.org/en/developers/docs/gas/)" are covered when minting the new token.
+  - If the Etherium wallet is on Topsten Test Network, a faucet may be used to fund the wallet. [Fauce link](https://faucet.ropsten.be/)
 - Copy (keep note of) the funded Etherium Wallet Address
 
 ___
