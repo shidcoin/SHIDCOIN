@@ -10,7 +10,7 @@ ___
 ### Developing the SHIDDED coin ERC-20 token in Remix online IDE
 - Open Etherium's Remix Tool https://remix.etherium.org
 - Ensure MetaMask Chrome Browser extension is installed and Etherium has been funded to the wallet of the future ERC-20 token owner.
-- Create a new file (*shid-20.sol*)
+- Create a new file (*SHID-20.sol*)
 - Copy/Paste the following smart contract details (Note that there are 18 decimal places for this token so the number of coins created is 1 billion.
     ```
     pragma solidity ^0.8.0;
@@ -35,7 +35,7 @@ ___
     ###### From here, MetaMask will take over...
     - MetaMask will ask you to confirm the contract deployment along with gas fees; Click Confirm.
     - Confirm that the contract was successfully deployed through Remix's console output and MetaMasks Chrome notifications.
-        - Expand the block from the console output; copy the hash of the transaction.
+        - Expand the block from the console output; copy the hash of the transaction for later use.
       
 ___
 
@@ -81,13 +81,14 @@ ___
 
 ### Transfer SHID coins from the creator's address to the smart contract address
 Once the coin is provisioned, all belong to the asset creator. At this point in time, no one can buy the coin because the creator owns them all! It will be important to transfer coins back to the contract address so they are available to be purchased on the market!
-- Open MetaMask
+- Open MetaMask-
+- Select the SHID token
 - Click Send
-- Copy/Paste the contract address into the address field.
+- Copy/Paste the contract address of SHID into the address field.
 - Fill out the number of tokens to give the contract. These tokens/coins will be available for purchase.
 - Click Next
-- Acknowledge "[Gas Fees](https://ethereum.org/en/developers/docs/gas/)" and click 'Confirm'
-- The transaction will be pending. Within a short amount of time, the transaction will be done and the contract will own the tokens transferred.
+- Acknowledge [Gas Fees](https://ethereum.org/en/developers/docs/gas/) and click "Confirm"
+- The transaction will go to pending. Within a short amount of time, the transaction will be finish and the contract will own the tokens transferred.
 
 ___
 
