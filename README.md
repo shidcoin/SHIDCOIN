@@ -8,6 +8,14 @@ i just shidded and farded and camed my pants
 
 
 
+
+
+
+
+
+
+
+
 ## How add the SHIDDED coin to MetaMask
 ...tbd
 
