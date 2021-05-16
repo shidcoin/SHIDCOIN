@@ -6,6 +6,8 @@ but god said
 
 i just shidded and farded and camed my pants
 ```
+![SHIDDED COIN](https://github.com/shidcoin/SHIDCOIN/blob/main/SRC/SHIDDED.jpeg)
+
 
 ---
 
