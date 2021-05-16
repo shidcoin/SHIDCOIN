@@ -20,8 +20,8 @@ Visit the SHIDDED coin webiste [[https://shid.diamonds](https://shid.diamonds)] 
 
 ### Why?
 
-This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. SHID coin will also allow investors an opportunity to relize capitial gains in the form of Etherium.
-Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India Covid Relief fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
+This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. SHID coin will also allow investors an opportunity to realize capital gains in the form of Etherium.
+Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India COVID Relief fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
 ```
 Future transaction hash for the SHID transfer to Vitalik Buterin
 ```
