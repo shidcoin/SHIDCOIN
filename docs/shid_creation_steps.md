@@ -93,7 +93,7 @@ Once the coin is provisioned, all belong to the asset creator. At this point in 
 ___
 
 ### How to determine SHIDDED coin's worth.
-Thanks to smart contracts, there is an automated algorithms ([Automated Market Makers](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)) that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest.
+Thanks to smart contracts, there are automated algorithms ([Automated Market Makers](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)) that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest.
 
 Read more about [Pricing](https://uniswap.org/docs/v2/advanced-topics/pricing/#:~:text=How%20are%20prices%20determined%3F,underpinned%20by%20a%20liquidity%20pool.&text=The%20ratio%20of%20tokens%20in,that%20a%20swap%20executes%20at.) from Uniswap
 
