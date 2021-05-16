@@ -14,9 +14,13 @@ How add the SHIDDED coin to MetaMask?
 tbd
 ```
 
-How to purchase SHIDDED coin?
+Where can I purchase SHIDDED coin?
 ```
-tbd
+https://exchange.pancakeswap.finance/
+https://uniswap.org/
+https://www.gemini.com/
+https://yearn.finance/
+https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-view-see-your-tokens-custom-tokens-in-Metamask
 ```
 
 How to increase the value of SHIDDED coin?
