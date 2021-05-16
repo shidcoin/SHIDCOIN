@@ -117,7 +117,7 @@ When you add liquidity, you are given pool tokens representing your position. Th
 
 **Uniswap Liquidity through Etherium Block Chain**
 
-Uniswap incentivises users to add liquidity to pools by rewarding liquidity providers with fees that are collected by the protocol. A 0.3% fee is taken for swapping between Ether and a token and roughly 0.6% is token for token to tokens swaps.
+Uniswap incentivises users to add liquidity to pools by rewarding liquidity providers with fees that are collected by the protocol. A 0.3% fee is taken for swapping between Ether and a token and roughly 0.6% is taken for token to tokens swaps.
 
 - Read documentation at https://docs.uniswap.org/concepts/introduction/liquidity-user-guide
 - Go to https://app.uniswap.org/#/pool
