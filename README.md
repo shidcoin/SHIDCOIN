@@ -16,7 +16,7 @@ How add the SHIDDED coin to MetaMask?
 Automated Way:
 1. Download MetaMask Mobile App or Chrome extension
 2. Click the following links which will bring you to a page to add SHID to Meta Mask. (This will be done via our own website in the future).
-https://bit.ly/2RYooH7
+    [] - Service provided by WatchToken at https://vittominacori.github.io/
 3. Click 'View on Etherscan' to verify on the blockchain
 4. Click 'Add to MetaMask'
 
