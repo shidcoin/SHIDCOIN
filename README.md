@@ -58,4 +58,4 @@ Thanks to smart contracts, there is an automated algorithm that will value SHIDD
 ---
 
 ### How was SHIDDED coin created?
-Shidded coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of SHIDDED coin can be found [here](docs/shid_creation_steps.md).
+Shidded coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of SHIDDED coin can be found [here](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/shid_creation_steps.md).
