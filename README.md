@@ -11,7 +11,10 @@ i just shidded and farded and camed my pants
 ---
 
 ### What is SHIDDED coin?
-Visit the SHIDDED coin webiste at [[https://shid.diamonds](https://shid.diamonds)]
+
+[Know your meme](https://knowyourmeme.com/memes/shidding-and-farding)
+
+Visit the SHIDDED coin webiste [[https://shid.diamonds](https://shid.diamonds)] to find out!
 
 ---
 
