@@ -20,8 +20,8 @@ Visit the SHIDDED coin webiste [[https://shid.diamonds](https://shid.diamonds)] 
 
 ### Why?
 
-To help people and make money in the process. Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India Covid Relief fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
-
+The purpose of this cryptocurrency is to build its value to a point where Vitalik Buterin can donate half of it to a charity of his choice, while the other half provides an opportunity for investors to see capital gains in the form of Etherium.
+Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India Covid Relief fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
 
 ---
 
