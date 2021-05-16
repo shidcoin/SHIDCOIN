@@ -108,7 +108,8 @@ When you add liquidity, you are given pool tokens representing your position. Th
 - Select "ETH" in the Input box and provide a value.
 - Select "SHID" in the 2nd Input box and provide a value.
 - Observe the price of "SHID" per "ETH"
-- Click Approve (Gas Fees)
+- Observe Gas Fees
+- Click Approve
 - Wait for an approval
 - Once approved, click "Create Pool & Supply" (Gas Fees)
 
