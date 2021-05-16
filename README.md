@@ -11,12 +11,14 @@ i just shidded and farded and camed my pants
 ---
 
 ### What is SHIDDED coin?
-https://knowyourmeme.com/memes/shidding-and-farding
+Visit the SHIDDED coin webiste at [[https://shid.diamonds](https://shid.diamonds)]
 
 ---
 
 ### Why?
-because shidding diamonds sounds fun
+
+To help people and make money in the process. Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India Covid Relief fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
+
 
 ---
 
