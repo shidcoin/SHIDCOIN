@@ -60,7 +60,7 @@ The Manual Way:
 ---
 
 ### How to increase the value of SHIDDED coin?
-Thanks to smart contracts, there is an automated algorithm that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest.
+Thanks to smart contracts, there is an automated algorithm that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest and a portion of transaction fees gained from SHID sales/purchases.
 
 ---
 
