@@ -57,25 +57,19 @@ ___
 
 ### Add the custom token to MetaMask
 The Best Way:
-- Open the following URL: []
-- Click Add to MetaMask Button
-- Click Accept in MetaMask
-
-A Cool Way:
-- Download MetaMask Mobile App or Chrome extension
-- Click the following links which will bring you to a page to add SHID to Meta Mask. (This will be done via our own website in the future).
-    [] - Service provided by WatchToken at https://vittominacori.github.io/
-- Click 'View on Etherscan' to verify on the blockchain
-- Click 'Add to MetaMask'
+- [Download and install the MetaMask Chrome extension](https://metamask.io/download)
+- Navigate to [shid.diamonds](https://shid.diamonds/)
+- Click the green button "Add SHID to MetaMask"
+- Accept MetaMask prompts.
 
 The Manual Way:
-- Download MetaMask Mobile App or Chrome extension
-- Click 'Add Token'
-- Ensuure 'Custom Token' is selected
-- Paste the SHIDDED token address ''
-- Verify the token symbol 'SHID' comes up and the Decimalls of Precision are 18.
+- [Download and install the MetaMask Chrome extension](https://metamask.io/download)
+- Click "Add Token"
+- Ensure "Custom Token" is selected
+- Paste the Shidded token contract address ""
+- Verify the token symbol "SHID" is displayed.
 - Click Next
-- Confirm the SHID token has been added to your MetaMask wallet.
+- Confirm the SHID token has been added to your MetaMask wallet!
 
 ___
 
@@ -93,27 +87,13 @@ Once the coin is provisioned, all belong to the asset creator. At this point in 
 ___
 
 ### How to determine SHIDDED coin's worth.
-Thanks to smart contracts, there are automated algorithms ([Automated Market Makers](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)) that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest.
-
-Read more about [Pricing](https://uniswap.org/docs/v2/advanced-topics/pricing/#:~:text=How%20are%20prices%20determined%3F,underpinned%20by%20a%20liquidity%20pool.&text=The%20ratio%20of%20tokens%20in,that%20a%20swap%20executes%20at.) from Uniswap
+"[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm)" are what determines 
+the price of Shidded Coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
+which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book 
+with a system where assets can be automatically swapped against the pool's latest price.
 
 ---
-### Add to exchange Liquitity Pools (Pancake Swap and Uniswap)
-
-**Pancake Swap Liquidity through Binance Smart Chain**
-
-When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time. Whenever someone trades PancakeSwap, the trader pays a 0.2% fee, of which 0.17% is added to the liquidity pool of the swap pair they traded on. To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the CAKE farms [here](https://pancakeswap.finance/), while still earning your 0.17% trading fee reward.
-- Read documentation at https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools
-- Go to https://exchange.pancakeswap.finance/#/pool
-- Select "ETH" in the Input box and provide a value.
-- Select "SHID" in the 2nd Input box and provide a value.
-- Observe the price of "SHID" per "ETH"
-- Observe Gas Fees
-- Click Approve
-- Wait for an approval
-- Once approved, click "Create Pool & Supply" (Gas Fees)
-
-
+### Add to exchange Liquitity Pools (Uniswap)
 
 **Uniswap Liquidity through Etherium Block Chain**
 
@@ -147,14 +127,6 @@ Validate the value of SHIDDED coin with CoinMarketCap
 
 ___
 ### Buy the SHIDDED COIN
-Pancake Swap 
-- Go to https://exchange.pancakeswap.finance/
-- Click Connect on the top right of the screen to connect an Etherium wallet.
-    - Various wallets are supported (Metamask, TrustWaLlet, MathWallet, TokenPocket, WalletConnect, Binance Chain Wallet, SafePal Wallet)
-- Select "ETH" in the FROM box. 
-- Select "SHID" in the TO box. (You may need to enter the contract address if SHID doesn't resolve.)
-- Fill out the amount of coins in the TO box.
-
 Uniswap
 - Go to https://app.uniswap.org/#/swap
 - Click Connect to a wallet on the top right of the screen to connect to an Etherium wallet.
@@ -179,14 +151,13 @@ Uniswap
 ___
 
 ### List SHIDDED coin on exchanges
+- Uniswap: https://uniswap.org/
 - Binance: https://www.binance.com/en/support/faq/115000822512
 - Coinbase: https://assethub.coinbase.com/
-- Pancake Swap: https://exchange.pancakeswap.finance/
-- Uniswap: https://uniswap.org/
 
 ___
 
-#### Cool Links:
+#### Useful Links:
 - https://tokenmint.io/blog/how-to-list-your-custom-erc20-token-to-uniswap.html
 - https://tokenmint.io/blog/decentralized-exchanges-list.html
 - https://tokenmint.io/
