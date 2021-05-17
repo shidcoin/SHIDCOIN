@@ -8,7 +8,7 @@ Shidded Coin is a memecoin that is all about shidding, farding, and being able t
 
 ### Why Invest?
 
-This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. Shidded Coin will also allow investors and shitposters an opportunity to realize capital gains in the form of Etherium.
+This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. Shidded Coin will also allow investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
 By donating half of the initial token supply to Vitalik Buterin, we hope to create additional incentive for investors given his recent donation of [1 billion dollars to the India COVID Relief fund](https://www.cnn.com/2021/05/13/business/ethereum-shiba-inu-india-covid-donation/index.html) on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) token.
 ```
 Future transaction hash for the SHID transfer to Vitalik Buterin
@@ -25,7 +25,7 @@ There were 500 billion coins minted during the genesis of Shidded coin. Below is
 
 ### Where can I purchase Shidded Coin?
 
-The quickest way to purchase Shidded Coin is through [dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Etherium](https://ethereum.org/en/what-is-ethereum/).
+The quickest way to purchase Shidded Coin is through [dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Ethereum](https://ethereum.org/en/what-is-ethereum/).
 - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7)
 - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1)
 - [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10)
@@ -71,8 +71,8 @@ Simply put, the more Shidded Coins purchased, the higher the price goes.
 
 ### How was Shidded Coin created?
 
-Shidded Coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of Shidded Coin can be found [here](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/shid_creation_steps.md).
-[Open Zeppelin's ERC-20 token template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) was used to generate the Etherium smart contract. [Open Zeppelin](https://openzeppelin.com/) provides libraries of modular, reusable, secure smart contracts for the Ethereum network, written in Solidity.
+Shidded Coin is an ERC-20 token; it is defined in a smart contract within the Ethereum blockchain. Complete documentation on the creation of Shidded Coin can be found [here](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/shid_creation_steps.md).
+[Open Zeppelin's ERC-20 token template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) was used to generate the Ethereum smart contract. [Open Zeppelin](https://openzeppelin.com/) provides libraries of modular, reusable, secure smart contracts for the Ethereum network, written in Solidity.
 Please visit the [SHIDCOIN Github page](https://github.com/shidcoin/shidcoin) for further details.
 
 ---

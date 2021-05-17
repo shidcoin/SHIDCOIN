@@ -1,15 +1,15 @@
 ### Ensure MetaMask is setup and the correct network is selected in which the coin is intended to be minted on.
 - Go to https://metamask.io/download.html and install MetaMask
 - Select Network (For testing, use something like the Ropsten Test Network; for Production use the Etherium Mainnet)
-- Fund the Etherium wallet to ensure [Gas Fees](https://ethereum.org/en/developers/docs/gas/) are covered when minting the new token.
-  - If the Etherium wallet is on the Ropsten Test Network, a faucet may be used to fund the wallet. [Faucet link](https://faucet.ropsten.be/)
+- Fund the Ethereum wallet to ensure [Gas Fees](https://ethereum.org/en/developers/docs/gas/) are covered when minting the new token.
+  - If the Ethereum wallet is on the Ropsten Test Network, a faucet may be used to fund the wallet. [Faucet link](https://faucet.ropsten.be/)
 - Copy (keep note of) the funded Etherium Wallet Address
 
 ___
 
 ### Developing the Shidded coin ERC-20 token in Remix online IDE
-- Open Etherium's Remix Tool https://remix.etherium.org
-- Ensure MetaMask Chrome Browser extension is installed and Etherium has been funded to the wallet of the future ERC-20 token owner.
+- Open Ethereum's Remix Tool https://remix.ethereum.org/
+- Ensure MetaMask Chrome Browser extension is installed and Ethereum has been funded to the wallet of the future ERC-20 token owner.
 - Create a new file (*SHID-20.sol*)
 - Copy/Paste the following smart contract details (Note: There are 18 decimal places for this token, so the number of coins created is 500 Billion).
     ```
@@ -28,7 +28,7 @@ ___
     - Click 'Compile shid-20.sol'
     - Click 'Deploy and Run Transactions'
     - Select environment 'Injected Web3' -- This should cause a prompt which asks for approval to connect Remix with MetaMask (Click Next > Connect)
-    - Select Account (The Etherium address should match what is in MetaMask)
+    - Select Account (The Ethereum address should match what is in MetaMask)
     - Select Contract 'Shidded - shid-20.sol'
     - Click Deploy
     
@@ -42,7 +42,7 @@ ___
 ### Validate the transaction was successful on the Etherscan Blockchain
 - Navigate to Etherscan's website:
     - Ropsten Testnet Network: https://ropsten.etherscan.io/
-    - Etherium Mainnet Network: https://etherscan.io/
+    - Ethereum Mainnet Network: https://etherscan.io/
 - Observe field values within Etherscan results:
     - The status should say 'Success'
     - Other field values: Block, Timestamp, From, Interacted With (To), Tokens Transferred, Value, Transaction Fee, Gas Price
@@ -95,7 +95,7 @@ with a system where assets can be automatically swapped against the pool's lates
 ---
 ### Add to exchange Liquitity Pools (Uniswap)
 
-**Uniswap Liquidity through Etherium Block Chain**
+**Uniswap Liquidity through Ethereum Block Chain**
 
 Uniswap incentivises users to add liquidity to pools by rewarding liquidity providers with fees that are collected by the protocol. A 0.3% fee is taken for swapping between Ether and a token and roughly 0.6% is taken for token to tokens swaps.
 
@@ -129,7 +129,7 @@ ___
 ### Buy the Shidded Coin
 Uniswap
 - Go to https://app.uniswap.org/#/swap
-- Click Connect to a wallet on the top right of the screen to connect to an Etherium wallet.
+- Click Connect to a wallet on the top right of the screen to connect to an Ethereum wallet.
     - Various wallets are supported (MetaMask, WalletConnect, CoinbaseWallet, Fortmatic, Portis)
 - Select "ETH" in the FROM box. 
 - Select "SHID" in the TO box. (You may need to enter the contract address if SHID doesn't resolve.)
