@@ -7,7 +7,7 @@
 
 ___
 
-### Developing the SHIDDED coin ERC-20 token in Remix online IDE
+### Developing the Shidded coin ERC-20 token in Remix online IDE
 - Open Etherium's Remix Tool https://remix.etherium.org
 - Ensure MetaMask Chrome Browser extension is installed and Etherium has been funded to the wallet of the future ERC-20 token owner.
 - Create a new file (*SHID-20.sol*)
@@ -18,7 +18,7 @@ ___
     import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol";
 
     contract SHIDDED is ERC20 {
-      constructor () ERC20 ("SHIDDED COIN", "SHID"){
+      constructor () ERC20 ("Shidded Coin", "SHID"){
         _mint(msg.sender, 500000000000000000000000000000);
       }
     }
@@ -29,7 +29,7 @@ ___
     - Click 'Deploy and Run Transactions'
     - Select environment 'Injected Web3' -- This should cause a prompt which asks for approval to connect Remix with MetaMask (Click Next > Connect)
     - Select Account (The Etherium address should match what is in MetaMask)
-    - Select Contract 'SHIDDED - shid-20.sol'
+    - Select Contract 'Shidded - shid-20.sol'
     - Click Deploy
     
     ###### From here, MetaMask will take over...
@@ -86,7 +86,7 @@ Once the coin is provisioned, all belong to the asset creator. At this point in 
 
 ___
 
-### How to determine SHIDDED coin's worth.
+### How to determine Shidded coin's worth.
 "[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm)" are what determines 
 the price of Shidded Coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
 which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book 
@@ -103,7 +103,7 @@ Uniswap incentivises users to add liquidity to pools by rewarding liquidity prov
 - Go to https://app.uniswap.org/#/pool
 - Click 'New Position'
 - Select Pair 'ETH' and 'SHID'
-- Select Fee Tier (1% seems fitting as this is best for exotic pairs; SHIDDED is exotic)
+- Select Fee Tier (1% seems fitting as this is best for exotic pairs; Shidded is exotic)
 - Set Starting Price (only required for new pools) - This should be the accurate market price of each token.
 - Set Price Range
     - Set Min Price
@@ -114,19 +114,19 @@ Uniswap incentivises users to add liquidity to pools by rewarding liquidity prov
  - Click 'Confirm' in MetaMask
 
 
-Validate the value of SHIDDED coin with PooCoin
+Validate the value of Shidded Coin with PooCoin
 - Go to https://poocoin.app (Binance Smart Chain)
 - Insert the Token Address for "SHID"
 - The results will allow you to see the coin's value and market cap
 
-Validate the value of SHIDDED coin with CoinMarketCap
+Validate the value of Shidded Coin with CoinMarketCap
 - Go to https://coinmarketcap.com/view/ethereum/
 - Insert the Token Address for "SHID"
 - The results will allow you to see the coin's value and market cap
 
 
 ___
-### Buy the SHIDDED COIN
+### Buy the Shidded Coin
 Uniswap
 - Go to https://app.uniswap.org/#/swap
 - Click Connect to a wallet on the top right of the screen to connect to an Etherium wallet.
@@ -150,7 +150,7 @@ Uniswap
     - Confirm 'SHID' tokens are available in your MetaMask wallet.
 ___
 
-### List SHIDDED coin on exchanges
+### List Shidded Coin on exchanges
 - Uniswap: https://uniswap.org/
 - Binance: https://www.binance.com/en/support/faq/115000822512
 - Coinbase: https://assethub.coinbase.com/
