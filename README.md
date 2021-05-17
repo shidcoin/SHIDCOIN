@@ -8,12 +8,13 @@ Shidded Coin is a memecoin that is all about shidding, farding, and being able t
 
 ### Why Invest?
 
-This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. Shidded Coin will also allow investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
-By donating half of the initial token supply to Vitalik Buterin, we hope to create additional incentive for investors given his recent donation of [1 billion dollars to the India COVID Relief fund](https://www.cnn.com/2021/05/13/business/ethereum-shiba-inu-india-covid-donation/index.html) on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) token.
+Shidded Coin will allow investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
+Half of the initial token supply was sent to an Ethereum address controlled by Vitalik Buterin. This is done without any expectations but rather to demonstrate the willingness of founders to limit our stake of Shidded Coin. Vitalik can choose to donate, do nothing. Since our decision was made without Vitalik's consent there are no expecations tied to him or the Ethereum address publically disclosed.
 ```
 Transaction details:
 https://etherscan.io/tx/0x900e809148fbf45d63ca93559fc225b4825823c82e1b6d3c45caef7709234ffc
 ```
+
 
 ---
 
