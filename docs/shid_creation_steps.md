@@ -84,6 +84,27 @@ Once the coin is provisioned, all belong to the asset creator. At this point in 
 - Acknowledge [Gas Fees](https://ethereum.org/en/developers/docs/gas/) and click "Confirm"
 - The transaction will go to pending. Within a short amount of time, the transaction will be finish and the contract will own the tokens transferred.
 
+```
+50% to Vitalik Buterin:
+==================================
+Address: 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B
+Quantity: 250000000000
+https://etherscan.io/tx/0x900e809148fbf45d63ca93559fc225b4825823c82e1b6d3c45caef7709234ffc
+
+
+33% to the contract to be sold on exchanges:
+==================================
+Contract Address: 0x78525827e6b346059e3324e5def20ee1e90469d2
+Quantity: 162500000000
+https://etherscan.io/tx/0xf689db9ded2133d4367912e52b63bb7ea523970b707baa918562d3812d23ef7d
+
+
+2.50% to Giveaway Pool:
+==================================
+Address: 0x175AB37dC94b075dB492BD3cFDb31728904CF34A
+Quantity: 12500000000
+https://etherscan.io/tx/0x7f42b102c714b61a2f9caa708a8372630b469a2216e05ecd0cd3c13770f3566c
+```
 ___
 
 ### How to determine Shidded coin's worth.
