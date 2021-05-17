@@ -134,12 +134,6 @@ Uniswap incentivises users to add liquidity to pools by rewarding liquidity prov
 - Approve and Add
  - Click 'Confirm' in MetaMask
 
-
-Validate the value of Shidded Coin with PooCoin
-- Go to https://poocoin.app (Binance Smart Chain)
-- Insert the Token Address for "SHID"
-- The results will allow you to see the coin's value and market cap
-
 Validate the value of Shidded Coin with CoinMarketCap
 - Go to https://coinmarketcap.com/view/ethereum/
 - Insert the Token Address for "SHID"
