@@ -26,14 +26,14 @@ There were 500 billion coins minted during the genesis of Shidded coin. Below is
 ### Where can I purchase Shidded Coin?
 
 The quickest way to purchase Shidded Coin is through [dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Ethereum](https://ethereum.org/en/what-is-ethereum/).
-- [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7)
-- [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1)
-- [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10)
-- [Buy 100 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=100)
-- [Buy 1,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1000)
-- [Buy 10,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10000)
-- [Buy 100,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=100000)
-- [Buy 1,00,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1000000)
+- [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2)
+- [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1)
+- [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=10)
+- [Buy 100 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=100)
+- [Buy 1,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1000)
+- [Buy 10,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=10000)
+- [Buy 100,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=100000)
+- [Buy 1,00,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1000000)
 
 ---
 
@@ -49,7 +49,7 @@ The Manual Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
 - Click "Add Token"
 - Ensure "Custom Token" is selected
-- Paste the Shidded token contract address ""
+- Paste the Shidded token contract address "0x78525827e6b346059e3324e5def20ee1e90469d"
 - Verify the token symbol "SHID" is displayed.
 - Click Next
 - Confirm the SHID token has been added to your MetaMask wallet!
