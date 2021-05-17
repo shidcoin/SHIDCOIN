@@ -18,6 +18,7 @@ Future transaction hash for the SHID transfer to Vitalik Buterin
 
 ### What is the total supply of Shidded Coin in circulation?
 There were 500 billion coins minted during the genesis of Shidded coin. Below is a breakdown as to how those coins were distributed.
+<br />
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/distribution_breakdown.JPG)
 
 ---
