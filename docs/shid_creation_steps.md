@@ -121,6 +121,12 @@ Address: 0x0aff8b3b2964b0c56e4B0460E7b2266d65B0127b
 Quantity: 12500000000
 https://etherscan.io/tx/0xdd2eae013222f016a7d2574e3716ae7162d543a28e66cf783e612234528e879b
 
+2.5% to Founder 5:
+==================================
+Address: 0x975854f3BB77737996C6185848c6BbAB4C68bf1c
+Quantity: 12500000000
+https://etherscan.io/tx/0x3ac47e3ced499aeac9a7225903939be3c9c1b187f1d6c8544cc204514f1f8b79
+
 ```
 ___
 
