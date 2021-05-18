@@ -99,25 +99,25 @@ Quantity: 162500000000
 https://etherscan.io/tx/0xf689db9ded2133d4367912e52b63bb7ea523970b707baa918562d3812d23ef7d
 
 
-2.50% to Giveaway Pool:
+2.5% to Giveaway Pool:
 ==================================
 Address: 0x175AB37dC94b075dB492BD3cFDb31728904CF34A
 Quantity: 12500000000
 https://etherscan.io/tx/0x7f42b102c714b61a2f9caa708a8372630b469a2216e05ecd0cd3c13770f3566c
 
-2. 2.5% to Founder 2:
+2.5% to Founder 2:
 ==================================
 Address: 0xd9Ea0D20aF86246e5fF9ECB0f22952cc0E20886F
 Quantity: 12500000000
 https://etherscan.io/tx/0x5b15d3475a9fdba4fdabb392bae90c19478a33629d8c44968c1f21de6731ebce
 
-3. 2.5% to Founder 3:
+2.5% to Founder 3:
 ==================================
 Address: 0x9055e9BF5d948377fC0037ee6E9221b01F25B5EC
 Quantity: 12500000000
 https://etherscan.io/tx/0xf1b5d39b3077f062b33b8321b5fece017147c5eda2c908b40777734b471a3b74
 
-4. 2.5% to Founder 4:
+2.5% to Founder 4:
 ==================================
 Address: 0x0aff8b3b2964b0c56e4B0460E7b2266d65B0127b
 Quantity: 12500000000
