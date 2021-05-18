@@ -52,7 +52,7 @@ The Manual Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
 - Click "Add Token"
 - Ensure "Custom Token" is selected
-- Paste the Shidded token contract address "0x78525827e6b346059e3324e5def20ee1e90469d"
+- Paste the Shidded token contract address "0x78525827e6b346059e3324e5def20ee1e90469d2"
 - Verify the token symbol "SHID" is displayed.
 - Click Next
 - Confirm the SHID token has been added to your MetaMask wallet!
