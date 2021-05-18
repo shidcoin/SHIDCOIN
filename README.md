@@ -1,4 +1,5 @@
 ### Shidded Coin
+![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
 ### What is Shidded Coin?
 
