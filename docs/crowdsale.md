@@ -48,6 +48,6 @@ contract ShiddedCrowdsale is Crowdsale, CappedCrowdsale {
 - Funding Contract Address with 21,000,000 SHID: https://etherscan.io/tx/0x91627e382beff8404f57efb5e139c1de2f1c0de4e82e338d9947cc39a69e58b1
 
 *Example*
-Current SHID: 0
-Sending 0.0001 Ethereum to 0x9CA22680a8429722F6941cd3e3213cA683a33f45
-New SHID: 420
+- Current SHID: 0
+- Sending 0.0001 Ethereum to 0x9CA22680a8429722F6941cd3e3213cA683a33f45
+- New SHID: 420
