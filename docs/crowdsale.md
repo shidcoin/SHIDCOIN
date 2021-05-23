@@ -50,5 +50,4 @@ contract ShiddedCrowdsale is Crowdsale, CappedCrowdsale {
 *Example*
 Current SHID: 0
 Sending 0.0001 Ethereum
-https://etherscan.io/tx/0xcd65c0263918d9f8ba8df4879ff68be83e9996310f96fd6f277f57c7481dd650
 New SHID: 420
