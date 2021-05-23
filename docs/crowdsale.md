@@ -1,6 +1,4 @@
 # Capped Crowdsale
-### Ensure MetaMask is setup and the correct network is selected in which the coin is intended to be minted on.
-
 ```
 pragma solidity ^0.5.0;
 
