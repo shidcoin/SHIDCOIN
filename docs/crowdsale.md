@@ -28,11 +28,12 @@ contract ShiddedCrowdsale is Crowdsale, CappedCrowdsale {
 
 ## Crowdsale 1 Details! 
 ### Raising 5 ETH for Liquidity Pools on Uniswap
-- Rate: 4200000
+### Give 1 ETH, Receive 4200000 SHID
+- Rate: 4200000 SHID per 1 ETH
 - Wallet: 0xD6c02Cf8A357d9fEa0c7f80E961205b988646896
 - Token: 0x78525827e6b346059e3324e5def20ee1e90469d2
-- Cap: 5000000000000000000
+- Cap: 5000000000000000000 (5 ETH)
+- Total SHID available for this Crowdsale: 21,000,000
 
 *Estimated Value*
-- Give 1 ETH, Receive 4200000 SHID
 - If Ethereum's value is $2,200.00 per coin, Shidded Coin's value is $0.00052380952 per coin
