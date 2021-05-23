@@ -34,11 +34,6 @@ contract ShiddedCrowdsale is Crowdsale, CappedCrowdsale {
 
 #### Send ETH to 0x9CA22680a8429722F6941cd3e3213cA683a33f45
 
-- Rate: 4200000
-- Wallet: 0xD6c02Cf8A357d9fEa0c7f80E961205b988646896
-- Token: 0x78525827e6b346059e3324e5def20ee1e90469d2
-- Cap: 5000000000000000000
-
 *Estimated Value*
 - If Ethereum's value is $2,200.00 per coin, Shidded Coin's value is $0.00052380952 per coin
 
@@ -51,3 +46,9 @@ contract ShiddedCrowdsale is Crowdsale, CappedCrowdsale {
 - Current SHID: 0
 - Sending 0.0001 Ethereum to 0x9CA22680a8429722F6941cd3e3213cA683a33f45
 - New SHID: 420
+
+*Smart Contract Arguments*
+- Rate: 4200000
+- Wallet: 0xD6c02Cf8A357d9fEa0c7f80E961205b988646896
+- Token: 0x78525827e6b346059e3324e5def20ee1e90469d2
+- Cap: 5000000000000000000
