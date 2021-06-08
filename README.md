@@ -20,9 +20,7 @@ https://etherscan.io/tx/0x900e809148fbf45d63ca93559fc225b4825823c82e1b6d3c45caef
 ---
 
 ### What is the total supply of Shidded Coin in circulation?
-There were 500 billion coins minted during the genesis of Shidded coin. Below is a breakdown as to how those coins were distributed.
-<br />
-![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/distribution_breakdown.JPG)
+There were 500 billion coins minted during the genesis of Shidded coin; half will most likely be burned by Vitalik Buterin.
 
 ---
 
@@ -53,7 +51,7 @@ The Manual Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
 - Click "Add Token"
 - Ensure "Custom Token" is selected
-- Paste the Shidded token contract address "0x78525827e6b346059e3324e5def20ee1e90469d2"
+- Paste the Shidded token contract address ```0x78525827e6b346059e3324e5def20ee1e90469d2```
 - Verify the token symbol "SHID" is displayed.
 - Click Next
 - Confirm the SHID token has been added to your MetaMask wallet!
@@ -80,7 +78,6 @@ Shidded Coin is an ERC-20 token; it is defined in a smart contract within the Et
 Please visit the [SHIDCOIN Github page](https://github.com/shidcoin/shidcoin) for further details.
 
 ---
-
 ### Support or Contacts
 
 i just shidded and farded and camed my pants
