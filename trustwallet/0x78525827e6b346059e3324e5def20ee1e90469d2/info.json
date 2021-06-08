@@ -1,0 +1,11 @@
+{
+    "name": "ShiddedCoin",
+    "website": "https://shid.diamonds",
+    "description": "Shidded Coin is a memecoin that is all about shidding, farding, and being able to camed your pants with friends. It can be used to tip content creators, as a gift for strangers, and isn’t as cringe as reddit gold. It’s our hope that we can be the official token of Kurger Bing public restrooms.",
+    "explorer": "https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2",
+    "type": "ERC20",
+    "symbol": "SHID",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x78525827e6b346059e3324e5def20ee1e90469d2"
+}
