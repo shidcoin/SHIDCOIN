@@ -25,9 +25,11 @@ There were 500 billion coins minted during the genesis of Shidded coin; half wil
 ---
 
 ### Where can I purchase Shidded Coin?
+The best way to buy Shidded Coin at a value is through our current [Crowdsale](https://shid.diamonds/crowdsale).
+- [Crowdsale Link](https://shid.diamonds/crowdsale)
 
-We are looking for [liquidity pool investors](https://uniswap.org/docs/v2/core-concepts/pools/)! A new pool will be created on Uniswap by 5/20/2021 and details will be shared!
-The quickest way to purchase Shidded Coin is through [dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Ethereum](https://ethereum.org/en/what-is-ethereum/).
+Additionally, we are listed on Uniswap. All proceeds from the crowdsale will be used to fund the liquidity pool on Uniswap!
+Uniswap Purchase Links:
 - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2)
 - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1)
 - [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=10)
