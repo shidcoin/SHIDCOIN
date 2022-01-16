@@ -57,7 +57,7 @@ The Manual Way:
 
 ### How to increase the value of Shidded Coin?
 
-Tell your friends, share SHID with them, make shidded memes.  Work with crypto jesus John Mcafee, mention Elon Musk a bunch on Twitter.
+Tell your friends, share SHID with them, make shidded memes.
 
 "[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm)" determine
 the price of Shidded Coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
